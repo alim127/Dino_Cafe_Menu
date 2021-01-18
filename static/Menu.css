@@ -1,0 +1,110 @@
+html
+{
+    scroll-behavior: smooth;
+}
+
+*
+{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: 'Josefin Slab', serif;
+
+}
+
+body
+{
+    background-color: #948375;
+}
+nav
+{
+    float: right;
+    
+   
+}
+
+li
+{
+    list-style-type: none;
+    display: inline;
+
+}
+nav ul 
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+nav li
+{
+    display: inline-block;
+    margin-left: 70px;
+    padding-top: 25px;
+    position: relative;
+    margin-right: 50px;
+}
+img
+{
+    width: 1000px;
+    height: 700px;
+    margin-left: 450px;
+    margin-top:200px
+}
+h1 
+{
+    text-align: center;
+}
+#menu
+{
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin: 6% auto;
+    background: #fff;
+    text-align: center;
+    padding: 5px;
+    margin-top: 200px;
+}
+.menu_item
+{
+
+    font-size: 30px;
+ 
+}
+#menu p
+{
+ 
+    font-size: 20px;
+    margin-bottom: 10px;
+
+}
+.sub
+{
+    margin-top: 10px;
+}
+
+section
+{
+    margin-top: 500px;
+    margin-bottom: 500px;
+}
+#about p
+{
+    font-size: 20px;
+    text-align: center;
+}
+
+#visit p
+{
+    font-size: 20px;
+    margin-top: 30px;
+    text-align: center;
+}
+.gallery img
+{
+    width: 100px;
+    height: 100px;
+
+    float: left;
+    
+}
